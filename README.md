@@ -125,3 +125,19 @@ Stop-Computer -Force -Timeout 60
 ```
 
 These PowerShell scripts use the `Stop-Computer` command to shutdown the computer either immediately or after a specified delay.
+
+## Usage
+
+Choose the script corresponding to your preferred programming language or operating system. Execute the script in a responsible manner, ensuring that you have the necessary permissions.
+
+## Note
+
+These scripts may require elevated privileges, and misuse can lead to data loss or other issues. Use them at your own risk.
+
+Feel free to customize the README according to your specific needs or provide additional information as necessary.
+
+Enjoy Computer Shutdown scripts!
+
+## License
+
+[MIT LICENSE](#LICENSE)
