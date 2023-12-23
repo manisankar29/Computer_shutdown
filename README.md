@@ -140,4 +140,4 @@ Enjoy Computer Shutdown scripts!
 
 ## License
 
-[MIT LICENSE](#LICENSE)
+[MIT License](LICENSE)
